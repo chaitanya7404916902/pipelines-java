@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/222395/First%20Test/_apis/build/status/chaitanya7404916902.pipelines-java?branchName=master)](https://dev.azure.com/222395/First%20Test/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
